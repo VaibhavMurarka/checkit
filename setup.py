@@ -9,7 +9,7 @@ setup(
     long_description_content_type='text/markdown',
     author='Vaibhav Murarka',
     author_email='vaibhavmurarka14@gmail.com.com',
-    url='https://github.com/VaibhavMurarka/checkkar',
+    url='https://github.com/VaibhavMurarka/checkit',
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
