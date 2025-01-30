@@ -1,4 +1,4 @@
-# Checkkar
+# Checkit
 
 A simple Python library to check if a number is 69.
 
